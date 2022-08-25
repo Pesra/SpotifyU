@@ -20,7 +20,7 @@ Session(app)
 USERNAME = 'poo'
 SPOTIPY_CLIENT_ID = 'b6f2877e6a4946ee9739fe03ceeb9bf1'
 SPOTIPY_CLIENT_SECRET = '636ee61020e54deba71b97d9ea299bdf'
-SPOTIPY_REDIRECT_URI = 'http://127.0.0.1:5000/'
+SPOTIPY_REDIRECT_URI = 'https://spotify-u.herokuapp.com/'
 SCOPE = "user-library-read user-top-read"
 TR = 'short_term'
 
